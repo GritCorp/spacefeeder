@@ -24,6 +24,6 @@ Keyboard and mouse emulator by www.11olsen.de/
 #### Tarik 
 https://cycling74.com/author/5474b0ff1ca8c6af2a9163f2
 ...
-Who posted this patch on the Max forum
+Who posted the spacenavigator input grabber to the Max forum
 ...
 https://cycling74.com/forums/spacenavigator-for-windows-patch
