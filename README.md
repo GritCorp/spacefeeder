@@ -6,6 +6,9 @@ Open the Spacefeeder.exe, leave it running in the background.
 The app takes the inputs from your Spacenavigator and uses those inputs to
 simulate key presses (WASD) and a right click mouse movement (horizontal axis only)
 
+#### Update Spacefeeder_6
+All inputs have now an on/off and invert switch
+
 #### Editing the Maxpatch
 The max patch is included in the "code" folder.
 
